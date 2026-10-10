@@ -1,45 +1,81 @@
-# Character Card Template
+# Novel Outline Template
 
-## 基本信息
+## Work metadata
 
-- 姓名：
-- 年龄：
-- 性别：
-- 身份：
-- 职业：
-- 生日/纪年：
+- Title:
+- Genre:
+- Length:
+- Target audience:
+- Status:
+- Word count target:
 
-## 外貌特征
+## 1. Premise
 
-- 身高：
-- 体型：
-- 服装风格：
-- 代表特征：
+### One-line summary
 
-## 性格与动机
+### Core theme
 
-- 性格：
-- 目标：
-- 恐惧：
-- 价值观：
+### Main conflict
 
-## 关系网络
+## 2. Characters
 
-- 重要关系：
-- 对手：
-- 盟友：
-- 家庭/社会关系：
+### Protagonist
+- Name:
+- Role:
+- Goal:
+- Flaw:
 
-## 发展线
+### Supporting cast
+- Name:
+- Role:
+- Relationship to protagonist:
 
-### 起点
+### Antagonist
+- Name:
+- Motivation:
+- Threat level:
 
-### 转折
+## 3. Worldbuilding
 
-### 结局状态
+### Setting
 
-## 备注
+### Rules of the world
 
-- 台词风格：
-- 关键场景：
-- 重要物品：
+### Social structure
+
+### Key locations
+
+## 4. Story arc
+
+### Act I: Setup
+- Hook:
+- Inciting incident:
+- Stakes:
+
+### Act II: Escalation
+- Midpoint:
+- Complications:
+- Revelation:
+
+### Act III: Resolution
+- Climax:
+- Consequence:
+- Ending:
+
+## 5. Chapter plan
+
+### Part 1
+- 01:
+- 02:
+- 03:
+
+### Part 2
+- 04:
+- 05:
+- 06:
+
+## 6. Notes
+
+- Ideas:
+- Questions:
+- Revisions needed:
